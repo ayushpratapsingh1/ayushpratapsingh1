@@ -6,7 +6,7 @@
 
 ## About me
 
-Hi, I'm Ayush!, an upcoming future Data Scientist.
+Hi, I'm Ayush!, an evolving Data Scientist.
 
 <details>
 <summary>My language Ranking</summary>
