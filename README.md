@@ -7,17 +7,12 @@
     <img alt="Random Quote🙄" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed&animation=grow_out_in">
 </div>
 
-
-
-
-
-
 ## About me
 
-Hi, I'm Ayush!, an evolving Data Scientist.
+Hi, I'm Ayush, an evolving Data Scientist.
 
 <details>
-<summary>My language Ranking</summary>
+<summary>My Language Ranking</summary>
 
 | Rank |   Languages   |
 |-----:|---------------|
@@ -26,8 +21,3 @@ Hi, I'm Ayush!, an evolving Data Scientist.
 |     3|     Java      |
 
 </details>
-
----
->Work hard in silence, Let your sucees be your noise.
-
--Internet🙂
