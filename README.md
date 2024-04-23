@@ -4,7 +4,11 @@
  <img alt="No image!🙄" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 <div align="center" style="border-radius: 10px; border: 1px solid black;">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=light" alt="Random Quote" />
+  <picture style="border-radius: 10px;>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes-bay.vercel.app/quote">
+ <source media="(prefers-color-scheme: light)" srcset="https://github-readme-quotes-bay.vercel.app/quote">
+ <img alt="Random Quote🙄" src="https://github-readme-quotes-bay.vercel.app/quote">
+</picture>
 </div>
 
 
