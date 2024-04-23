@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka" alt="reimaginedreadme">
+<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
 <img src="https://myreadme.vercel.app/api/embed/ayushpratapsingh1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
 
 <div align="center" style="border-radius: 10px; border: 1px solid black; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
