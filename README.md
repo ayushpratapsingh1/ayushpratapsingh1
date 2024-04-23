@@ -17,5 +17,5 @@
 Hi, I'm Ayush, an evolving Data Scientist.
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width: 120px; height: auto;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width: 280px; height: auto;">
 <hr>
