@@ -16,6 +16,8 @@
 
 Hi, I'm Ayush, an evolving Data Scientist.
 
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width: 250px; height: auto;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpratapsingh1&theme=tokyonight" alt="mystreak"/>
+        </div>
 <hr>
