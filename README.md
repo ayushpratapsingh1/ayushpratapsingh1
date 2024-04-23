@@ -5,7 +5,7 @@
         </a>
 </div>
 
-<img src="https://myreadme.vercel.app/api/embed/ayushpratapsingh1?panels=userstatistics,toplanguages,commitgraph&theme=dark" alt="reimaginedreadme">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushpratapsingh1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 <div align="center" style="border-radius: 10px; border: 1px solid black; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <picture>
@@ -20,4 +20,4 @@
 
 Hi, I'm Ayush, an evolving Data Scientist.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpratapsingh1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
