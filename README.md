@@ -1,4 +1,21 @@
-<img src="https://myreadme.vercel.app/api/embed/ayushpratapsingh1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+    .container {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+
+<div class="container">
+    <img src="https://myreadme.vercel.app/api/embed/ayushpratapsingh1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
+</div>
 <div align="center" style="border-radius: 10px; border: 1px solid black; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://wallpapercg.com/media/ts_orig/7693.webp">
