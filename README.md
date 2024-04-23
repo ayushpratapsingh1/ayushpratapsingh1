@@ -4,9 +4,10 @@
             <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 110px; height: auto;">
         </a>
 </div>
+<div>
 <img src="https://myreadme.vercel.app/api/embed/ayushpratapsingh1?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushpratapsingh1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
 <div align="center" style="border-radius: 10px; border: 1px solid black; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://wallpapercg.com/media/ts_orig/7693.webp">
