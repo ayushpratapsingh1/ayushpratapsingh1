@@ -9,7 +9,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpratapsingh1&theme=tokyonight" alt="mystreak" style="width:400px; height: auto; border-radius: 20px;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpratapsingh1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width:290px; height: auto; border-radius: 20px;"/>
 </div>
-
+<br>
 <img src="https://myreadme.vercel.app/api/embed/ayushpratapsingh1?panels=userstatistics,commitgraph" alt="reimaginedreadme" style="width:500px; height: auto; border-radius: 20px;"/>
 
 <picture>
