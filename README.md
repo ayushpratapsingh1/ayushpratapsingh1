@@ -4,6 +4,7 @@
             <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 110px; height: auto;">
         </a>
 </div>
+
 ## About me
 
 Hi, I'm Ayush, an evolving Data Scientist.
