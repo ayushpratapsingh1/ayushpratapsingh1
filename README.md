@@ -9,7 +9,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpratapsingh1&theme=tokyonight" alt="mystreak" style="width:400px; height: auto; border-radius: 20px;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpratapsingh1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width:290px; height: auto; border-radius: 20px;"/>
 </div>
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/ayushpratapsingh1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
  <div align="left" style="border-radius: 10px; border: 1px solid black; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
          <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gist/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/01151_inthedeep_2560x1600.jpg" style="width: 100px; height: auto; border-radius: 20px;">
