@@ -14,7 +14,7 @@
          <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gist/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/01151_inthedeep_2560x1600.jpg">
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.incollect.com/sites/default/files/zoom/CAROLINA-ALOTUS-Colorful-morning-Abstract-painting-2021-687370-3389413.png">
-        <img alt="No image!🙄" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+        <img alt="No image!🙄" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) width:650px; height: auto; border-radius: 20px;;">
     </picture>
     <img alt="Random Quote🙄" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed&animation=grow_out_in" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
 </div>
