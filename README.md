@@ -3,9 +3,10 @@
  <source media="(prefers-color-scheme: light)" srcset="https://cdn.incollect.com/sites/default/files/zoom/CAROLINA-ALOTUS-Colorful-morning-Abstract-painting-2021-687370-3389413.png">
  <img alt="No image!🙄" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
-<div align="center" style="border-radius: 10px; overflow: hidden;">
+<div align="center" style="border-radius: 10px; overflow: hidden; border: 1px solid black;">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=light" alt="Random Quote" />
 </div>
+
 
 
 
