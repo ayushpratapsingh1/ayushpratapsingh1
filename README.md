@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpratapsingh1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width:290px; height: auto; border-radius: 20px;"/>
 </div>
 
-<img src="https://myreadme.vercel.app/api/embed/ayushpratapsingh1?panels=userstatistics,commitgraph" alt="reimaginedreadme" style="width:680px; height: auto; border-radius: 20px;"/>
+<img src="https://myreadme.vercel.app/api/embed/ayushpratapsingh1?panels=userstatistics,commitgraph" alt="reimaginedreadme" style="width:690px; height: auto; border-radius: 20px;"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
