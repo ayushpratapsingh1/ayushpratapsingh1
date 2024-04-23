@@ -12,6 +12,12 @@
 
 <img src="https://myreadme.vercel.app/api/embed/ayushpratapsingh1?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
  <div align="left" style="border-radius: 10px; border: 1px solid black; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
          <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gist/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/01151_inthedeep_2560x1600.jpg" style="width: 100px; height: auto; border-radius: 20px;">
