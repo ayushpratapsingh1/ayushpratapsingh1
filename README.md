@@ -5,7 +5,7 @@
         </a>
 </div>
 
-<img src="https://myreadme.vercel.app/api/embed/ayushpratapsingh1?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpratapsingh1&theme=tokyonight" alt="mystreak"/>
 
  <div align="left" style="border-radius: 10px; border: 1px solid black; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <img alt="Random Quote🙄" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed&animation=grow_out_in" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
@@ -16,8 +16,5 @@
 
 Hi, I'm Ayush, an evolving Data Scientist.
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width: 250px; height: auto;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpratapsingh1&theme=tokyonight" alt="mystreak"/>
-        </div>
 <hr>
