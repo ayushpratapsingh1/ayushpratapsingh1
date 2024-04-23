@@ -1,8 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <div>
         <img src="https://profile-counter.glitch.me/{ayushpratapsingh1}/count.svg" alt="ayushpratapsingh1 :: Visitor's Count" />
-    </div>
-    <div>
         <a href="https://www.linkedin.com/in/ayushpratapsingh1/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
