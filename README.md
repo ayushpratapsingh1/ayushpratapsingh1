@@ -7,7 +7,9 @@
 
 <img src="https://myreadme.vercel.app/api/embed/ayushpratapsingh1?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
 
+ <div align="left" style="border-radius: 10px; border: 1px solid black; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <img alt="Random Quote🙄" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed&animation=grow_out_in" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+</div>
 
 
 ## About me
