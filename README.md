@@ -12,13 +12,4 @@
 
 Hi, I'm Ayush, an evolving Data Scientist.
 
-<details>
-<summary>My Language Ranking</summary>
-
-| Rank |   Languages   |
-|-----:|---------------|
-|     1|     C++       |
-|     2|     Python    |
-|     3|     Java      |
-
-</details>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpratapsingh1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
