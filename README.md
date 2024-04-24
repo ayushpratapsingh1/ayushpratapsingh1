@@ -14,6 +14,7 @@ Hi, I'm Ayush, an evolving Data Scientist.
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpratapsingh1&theme=tokyonight" alt="mystreak" style="width:400px; height: auto; border-radius: 20px;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpratapsingh1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width:290px; height: auto; border-radius: 20px;"/>
