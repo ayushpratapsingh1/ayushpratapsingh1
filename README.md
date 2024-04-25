@@ -7,7 +7,7 @@
 
 ## About me
 
-Hi, I'm Ayush, an evolving Data Scientist.
+👋Hi, I'm Ayush, an evolving Data Scientist.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
@@ -20,6 +20,7 @@ Hi, I'm Ayush, an evolving Data Scientist.
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpratapsingh1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width:290px; height: auto; border-radius: 20px;"/>
 </div>
 
+# Quote👍
  <div align="left" style="border-radius: 10px; border: 1px solid black; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <img alt="Random Quote🙄" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed&animation=grow_out_in" style="box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
 
