@@ -7,7 +7,7 @@
 
 # About me
 
-Hi, I'm Ayush, an evolving Data Scientist.
+Hi, I'm Ayush, a Pre-Final Year CSE Student.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpratapsingh1&theme=tokyonight" alt="mystreak" style="width:400px; height: auto; border-radius: 20px;"/>
