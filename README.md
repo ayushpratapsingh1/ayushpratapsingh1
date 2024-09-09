@@ -9,8 +9,6 @@
 
 Hi, I'm Ayush, a Pre-Final Year CSE Student.
 
-![](https://raw.githubusercontent.com/ayushpratapsingh1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ayushpratapsingh1/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
         
