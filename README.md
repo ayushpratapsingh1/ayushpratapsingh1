@@ -9,7 +9,11 @@
 
 Hi, I'm Ayush, a Pre-Final Year CSE Student.
 
+![](https://raw.githubusercontent.com/ayushpratapsingh1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ayushpratapsingh1/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
+        
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpratapsingh1&theme=tokyonight" alt="mystreak" style="width:400px; height: auto; border-radius: 20px;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpratapsingh1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="width:290px; height: auto; border-radius: 20px;"/>
 </div>
