@@ -9,7 +9,7 @@
 
 <b>Hi</b>👋, I'm Ayush, <i>a Pre-Final Year CSE Student</i>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushpratapsingh1)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: flex; justify-content: space-between; align-items: center;">
         
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpratapsingh1&theme=tokyonight" alt="mystreak" style="width:400px; height: auto; border-radius: 20px;"/>
