@@ -19,13 +19,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpratapsingh1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayushpratapsingh1&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 ### Random Dev Quote👍
  <div align="left" style="border-radius: 10px; border: 1px solid black; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
