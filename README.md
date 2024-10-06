@@ -13,9 +13,9 @@
 # 📊 GitHub Stats:
 <div>
       <img src="https://github-readme-stats.vercel.app/api?username=ayushpratapsingh1&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpratapsingh1&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpratapsingh1&theme=dark&hide_border=true" alt="GitHub Streak"/>      
 </div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpratapsingh1&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
       
 
 
