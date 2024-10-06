@@ -21,9 +21,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="border:none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpratapsingh1&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
-    </td>
   </tr>
 </table>
 
