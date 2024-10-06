@@ -1,9 +1,6 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-        <img src="https://profile-counter.glitch.me/{ayushpratapsingh1}/count.svg" alt="ayushpratapsingh1 :: Visitor's Count" />
-        <a href="https://www.linkedin.com/in/ayushpratapsingh1/" target="_blank">
+<a href="https://www.linkedin.com/in/ayushpratapsingh1/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 110px; height: auto;">
         </a>
-</div>
 
 # 💫 About me
 
