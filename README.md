@@ -7,8 +7,8 @@
 <b>Building👤</b>
 
 
-
-# Language and tools I am familiar with:
+<detail>
+<summary>Language and tools I am familiar with:</summary>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
+</detail>
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
