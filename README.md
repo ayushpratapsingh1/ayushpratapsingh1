@@ -4,7 +4,7 @@
 
 # 💫 About me
 
-<b>Hi</b>👋, I'm Ayush, a pre-final year CSE student passionate about coding, AI, and building innovative tech solutions.
+<b>Building👤</b>
 
 
 
