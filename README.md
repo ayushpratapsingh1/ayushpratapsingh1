@@ -4,11 +4,13 @@
 
 # 💫 About me
 
-<b>Building👤</b>
+<b>👤 Building</b>
 
 
-<detail>
-<summary>Language and tools I am familiar with:</summary>
+<details>
+<summary>My Tech Stack</summary>
+            
+# Language and tools I am familiar with:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -42,7 +44,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-</detail>
+</details>
+
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -62,9 +66,7 @@
 
 ###
 
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpratapsingh1&radius=16&theme=one-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
