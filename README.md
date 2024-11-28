@@ -3,8 +3,10 @@
         </a>
 
 
+<br>
 
-<b align="center">👤 Building</b>
+
+<b>👤 Building</b>
 
 
 <details>
