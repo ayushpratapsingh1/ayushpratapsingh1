@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web development tactics.**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ayushpratapsingh.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ayushdev.tech/)
 
 - 📫 How to reach me **ayushpratapds@gmail.com**
 
