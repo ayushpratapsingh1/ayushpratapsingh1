@@ -12,7 +12,7 @@ I also work on FinOps automation projects that integrate cloud run functions, AW
 I believe in building reliable systems that are not only technically efficient but also financially optimized.
 
 **Portfolio:** [https://ayushdev.tech/](https://ayushdev.tech/)  
-**Resume:** [View Resume](https://drive.google.com/file/d/1G8VlYc2-4q1qIzKin6ssNGyKU6QNWBdg/view)  
+**Resume:** [View Resume](https://drive.google.com/file/d/1li4x8MnN0rIaSthOM521y9HoykJjYwai/view?usp=sharing)  
 **Email:** [ayushpratapds@gmail.com](mailto:ayushpratapds@gmail.com)
 
 ---
