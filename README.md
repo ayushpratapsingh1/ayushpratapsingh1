@@ -1,58 +1,70 @@
-# Hi 👋, I'm Ayush
+# Ayush Singh
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7D3&center=true&width=435&lines=Passionate+Tech+Enthusiast;Full-Stack+Developer;Cloud+%26+DevOps+Learner" />
-</p>
+## About Me
 
----
+I am a Cloud and DevOps Engineer with a growing focus on FinOps practices.  
+My professional interests revolve around designing scalable, cost-efficient, and observable cloud systems.  
+I enjoy solving problems related to infrastructure automation, deployment workflows, and cloud cost governance.
 
-### 🚀 About Me
-- 🔭 I’m currently exploring **new technologies and applying them to real-world projects**
-- 🌱 I’m focusing on **Web Development & Cloud Deployment**
-- 👨‍💻 Check out my projects at **[Portfolio](https://ayushdev.tech/)**
-- 📫 Reach me at **ayushpratapds@gmail.com**
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1G8VlYc2-4q1qIzKin6ssNGyKU6QNWBdg/view)**
+Currently, I am deepening my expertise in Kubernetes, Infrastructure as Code (Terraform), and AWS cloud architecture.  
+I also work on FinOps automation projects that integrate cloud run functions, AWS Lambda, and Grafana dashboards for real-time cost monitoring.
 
----
+I believe in building reliable systems that are not only technically efficient but also financially optimized.
 
-### ⚡️ Where to Find Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayushpratapsingh1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ayushpratapds@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
-  </a>
-</p>
+**Portfolio:** [https://ayushdev.tech/](https://ayushdev.tech/)  
+**Resume:** [View Resume](https://drive.google.com/file/d/1G8VlYc2-4q1qIzKin6ssNGyKU6QNWBdg/view)  
+**Email:** [ayushpratapds@gmail.com](mailto:ayushpratapds@gmail.com)
 
 ---
 
-### 🚀 Technologies & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,tailwind,nextjs,nodejs,express,mongodb,aws,docker,nginx,git,linux&theme=dark" />
-</p>
+## Technical Skills
+
+### Cloud Platforms
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+- Microsoft Azure
+
+### Infrastructure & Automation
+- Kubernetes (EKS, Minikube)
+- Terraform
+- Docker
+- Jenkins
+- GitHub Actions
+- Ansible
+- Bash & Python scripting
+
+### FinOps & Monitoring
+- Grafana Dashboards
+- AWS CloudWatch
+- Google Cloud Run Functions
+- AWS Lambda
+- Java SDK Integrations for cost automation
+
+### Development
+- JavaScript, TypeScript
+- Node.js, Express.js
+- React.js, Next.js
+- MongoDB
+- REST APIs and Microservices
+
+### Operating Systems & Tools
+- Linux Administration
+- Git and Version Control
+- Nginx and Web Server Management
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpratapsingh1&theme=dark&hide_border=true" height="180" alt="streak graph" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushpratapsingh1&show_icons=true&theme=dark&hide_border=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpratapsingh1&layout=compact&theme=dark&hide_border=true" height="180" alt="Top languages" />
-</p>
+## Current Focus Areas
+
+- Cloud cost optimization and FinOps automation  
+- End-to-end DevOps pipeline development  
+- Infrastructure as Code with Terraform  
+- Observability through metrics and dashboards  
+- Kubernetes deployments and microservice scalability  
 
 ---
 
-### 🚀 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpratapsingh1&radius=16&theme=one-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</p>
+## Professional Goals
 
----
-
-### 💡 Random Dev Quote
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed&animation=grow_out_in" alt="Random Quote" />
-</p>
-
----
+My goal is to bridge the gap between engineering excellence and financial responsibility in cloud environments.  
+I aim to develop systems that are automated, observable, and financially transparent, enabling organizations to scale sustainably.
